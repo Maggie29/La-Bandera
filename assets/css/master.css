@@ -1,0 +1,21 @@
+*{
+  margin: 0;
+  box-sizing: border-box;
+  font-family: "garamond";
+}
+.estructura-inicial{
+  border: 1px solid #E1E4E8;
+}
+.yellow, .blue, .red{
+  width: 100px;
+  height: 100px;
+}
+.yellow{
+  background:yellow;
+}
+.blue{
+  background: blue;
+}
+.red{
+  background: red;
+}
