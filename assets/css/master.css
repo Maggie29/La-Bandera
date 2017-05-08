@@ -3,8 +3,12 @@
   box-sizing: border-box;
   font-family: "garamond";
 }
-.estructura-inicial, .punto1{
+.estructura-inicial, .punto1, .punto2{
   border: 1px solid #E1E4E8;
+  overflow: auto;
+}
+h1{
+padding-top: 30px;
 }
 .yellow, .blue, .red{
   width: 100px;
@@ -21,4 +25,7 @@
 }
 .punto1 div{
   float: left;
+}
+.punto2 div{
+float: right;
 }
