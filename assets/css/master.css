@@ -3,7 +3,7 @@
   box-sizing: border-box;
   font-family: "garamond";
 }
-.estructura-inicial{
+.estructura-inicial, .punto1{
   border: 1px solid #E1E4E8;
 }
 .yellow, .blue, .red{
@@ -18,4 +18,7 @@
 }
 .red{
   background: red;
+}
+.punto1 div{
+  float: left;
 }
